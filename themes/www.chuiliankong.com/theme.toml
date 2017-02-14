@@ -1,7 +1,0 @@
-name = "www.chuiliankong.com"
-description = "A hugo theme for Chuilian"
-min_version = 0.15
-
-[author]
-  name = "Chuilian Kong"
-  homepage = "https://www.chuiliankong.com"
