@@ -1,0 +1,23 @@
+theme:                      "www.chuiliankong.com"
+title:                      "Chuilian Kong"
+baseURL:                    "https://www.chuiliankong.com/"
+description:                "a first year master's student at Vanderbilt University studying Computer Science"
+buildDrafts:                true
+buildFuture:                true
+relativeURLs:               true
+canonifyURLs:               false
+config:                     "config.yaml"
+defaultExtension:           "md"
+defaultLayout:              "post"
+MetaDataFormat:             "yaml"
+LanguageCode:               "en"
+
+# Theme
+Params:
+    author: "Chuilian Kong"
+    TwitterUser: "chuiliankong"
+    CoverPhoto: "/cover.jpg"
+
+permalinks:
+    post: "/:filename/"
+    page: "/:filename/"
