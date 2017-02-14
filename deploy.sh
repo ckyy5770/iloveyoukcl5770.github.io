@@ -15,7 +15,7 @@ wget $binary
 tar xfz $tarball
 
 if  [ "$TRAVIS_PULL_REQUEST" = "false" ] \
-    && [ "$TRAVIS_REPO_SLUG" = "chuiliankong/www.chuiliankong.com" ] \
+    && [ "$TRAVIS_REPO_SLUG" = "iloveyoukcl5770/iloveyoukcl5770.github.io" ] \
     && [ "$TRAVIS_SECURE_ENV_VARS" = "true" ]
 then
 
