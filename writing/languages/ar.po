@@ -1,0 +1,1670 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Writing\n"
+"POT-Creation-Date: 2016-06-19 05:03+0200\n"
+"PO-Revision-Date: 2016-06-19 06:16+0200\n"
+"Last-Translator: \n"
+"Language-Team: Ahmadworks <support@ahmad.works>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx;_nx:1,2\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:6
+msgid "404"
+msgstr "٤٠٤"
+
+#: ../404.php:10
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "‎لا يوجد نتائج في هذه الصفحة، يمكنك استخدام البحث للوصول لمواضيع أخرى"
+
+#: ../404.php:18
+msgid "404 Page Sidebar"
+msgstr ""
+
+#: ../comments.php:16
+msgctxt "comments title"
+msgid "One Comment"
+msgstr "‎تعليق واحد"
+
+#: ../comments.php:21
+#, php-format
+msgctxt "plural comments title"
+msgid "%1$s comments"
+msgstr "‎التعليقات‫:‬ %1$s"
+
+#: ../comments.php:50
+msgid "Comments are closed."
+msgstr "‎التعليقات مغلقة"
+
+#: ../comments.php:58 ../comments.php:78 ../comments.php:97
+msgid "Leave a reply"
+msgstr "‎أضف رد"
+
+#: ../comments.php:59 ../comments.php:79 ../comments.php:98
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "‎أضف رد إلى %s"
+
+#: ../comments.php:60 ../comments.php:80 ../comments.php:99
+msgid "Cancel Reply"
+msgstr "‎إلغاء الرد"
+
+#: ../comments.php:61 ../comments.php:81 ../comments.php:100
+msgid "Post Comment"
+msgstr "‎أضف التعليق"
+
+#: ../comments.php:65 ../comments.php:85 ../comments.php:104
+msgid "Your email address will not be published."
+msgstr "‎بريدك الإلكتروني لن يظهر لأحد"
+
+#: ../comments.php:68 ../comments.php:88 ../comments.php:107
+msgid "Name"
+msgstr "‎الإسم\t"
+
+#: ../comments.php:69 ../comments.php:89 ../comments.php:108
+msgid "Email"
+msgstr "‎البريد الإلكتروني"
+
+#: ../comments.php:70 ../comments.php:90 ../comments.php:109
+msgid "Website"
+msgstr "‎الموقع"
+
+#: ../content-none.php:3
+msgid "Nothing Found"
+msgstr "‎لا يوجد نتائج"
+
+#: ../content-none.php:10
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "‎هل لديك أفكار لتكتبها؟ <a href=\"%1$s\">قم بكتابة تدوينتك الأولى</a>."
+
+#: ../content-none.php:14
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"‎عفواً، لا يوجد نتائج تناسب كلمة البحث التي كتبتها، يمكنك استخدام كلمات أخرى "
+"للبحث‫.‬"
+
+#: ../content-none.php:19
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "‎لا يمكن الوصول لما تريده، يمكنك استخدام البحث للوصول لمواضيع أخرى"
+
+#: ../content.php:110 ../functions.php:541
+msgid "Edit"
+msgstr "‎تعديل"
+
+#: ../content.php:136
+#, php-format
+msgid "Continue reading %s"
+msgstr "‎أكمل قراءة %s"
+
+#: ../content.php:145 ../inc/widgets/gplus.php:69
+msgid "Page"
+msgstr "‎صفحة"
+
+#: ../content.php:174
+msgid "Continue Reading"
+msgstr "‎أكمل القراءة"
+
+#: ../footer.php:6
+msgid "Site Footer"
+msgstr "‎مؤخرة الموقع"
+
+#: ../footer.php:41 ../footer.php:54 ../functions.php:139
+msgid "Sliding Sidebar"
+msgstr "‎القائمة الجانبية المتحركة"
+
+#: ../functions.php:57
+msgid "Primary Menu"
+msgstr "‎القائمة الرئيسية"
+
+#: ../functions.php:58
+msgid "Secondary Menu"
+msgstr "‎القائمة الثانوية"
+
+#: ../functions.php:129
+msgid "Default sidebar"
+msgstr "‎القائمة الجانبية"
+
+#: ../functions.php:131
+msgid ""
+"This is the default sidebar in your blog, add widgets here and it will "
+"appear on all pages have this sidebar"
+msgstr ""
+"‎القائمة الجانبية الافتراضية في موقعك، كل ما يتم إضافته هنا سيظهر في جميع "
+"الصفحات التي يظهر بها قائمة جانبية "
+
+#: ../functions.php:141
+msgid ""
+"This is the sliding side bar, it slides from the right side if you click on "
+"user info button"
+msgstr "‎القائمة الجانبية المتحركة التي تظهر من الجانب الأيسر"
+
+#: ../functions.php:149
+msgid "404 page sidebar"
+msgstr "‎القائمة الجانبية لصفحة خطأ ٤٠٤"
+
+#: ../functions.php:151
+msgid "Here you add widgets to 404 Error page"
+msgstr "‎أضف هنا ما تريد إظهاره في صفحة خطأ ٤٠٤"
+
+#: ../functions.php:159
+msgid "Footer Widgets 1"
+msgstr "‎قائمة خاتمة الموقع الأولى"
+
+#: ../functions.php:169
+msgid "Footer Widgets 2"
+msgstr "‎قائمة خاتمة الموقع الثانية"
+
+#: ../functions.php:179
+msgid "Footer Widgets 3"
+msgstr "‎قائمة خاتمة الموقع الثانية"
+
+#: ../functions.php:291 ../inc/template-tags.php:5
+msgid "Featured"
+msgstr "‎مميز"
+
+#: ../functions.php:337 ../functions.php:347 ../inc/template-tags.php:47
+#: ../inc/template-tags.php:55
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr "- "
+
+#: ../functions.php:340
+msgctxt "Used before category names."
+msgid "In"
+msgstr "‎في"
+
+#: ../functions.php:350 ../inc/template-tags.php:58
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "‎التاجات"
+
+#: ../functions.php:379
+msgid "Views"
+msgstr "‎مشاهدة"
+
+#: ../functions.php:387 ../inc/template-tags.php:78
+msgid "Leave a comment"
+msgstr "‎أضف تعليق"
+
+#: ../functions.php:387 ../inc/template-tags.php:78
+msgid "1 Comment"
+msgstr "‎تعليق ١"
+
+#: ../functions.php:387 ../inc/template-tags.php:78
+msgid "% Comments"
+msgstr "‎عدد التعليقات‫:‬ %"
+
+#: ../functions.php:397 ../inc/template-tags.php:69
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "‎الحجم الكامل"
+
+#: ../functions.php:541
+msgid "Pingback: "
+msgstr "‎بينج باك"
+
+#: ../functions.php:560
+msgid "Reply"
+msgstr "‎رد"
+
+#: ../functions.php:582
+msgid "Comment navigation"
+msgstr "‎تصفح التعليقات"
+
+#: ../functions.php:585
+msgid "Older Comments"
+msgstr "‎التعليقات الأقدم"
+
+#: ../functions.php:589
+msgid "Newer Comments"
+msgstr "‎التعليقات الأجدد"
+
+#: ../functions.php:1370
+msgid ""
+"Your twitter application info is not set correctly in option panel, please "
+"create please login to Twitter Application Manager here https://apps.twitter."
+"com/ , create new application and new access token, then go to theme "
+"customizer social section and fill the data you got from Twitter application"
+msgstr ""
+"‎لم يتم إعداد تطبيق تويتر الخاص بك بشكل صحييح، يمكنك إنشاء التطبيق من هنا "
+"https://apps.twitter.com/ ، ثم الذهاب إلى تخصيص الشبكات الإجتماعية واضف "
+"بيانات التطبيق الذي تم انشاؤه"
+
+#: ../functions.php:1422
+#, php-format
+msgid "an hour"
+msgid_plural "%s hours"
+msgstr[0] "‎منذ ساعة"
+msgstr[1] "%s hours"
+
+#: ../functions.php:1427
+#, php-format
+msgid "a day"
+msgid_plural "%s days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../functions.php:1430
+#, php-format
+msgid "a month"
+msgid_plural "%s months"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../functions.php:1433
+#, php-format
+msgid "a year"
+msgid_plural "%s years"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../header-searchform.php:2
+msgid "Hit enter to search"
+msgstr "‎إضغط إنتر للبحث"
+
+#: ../header.php:109 ../header.php:181
+msgctxt "Used for mobile menu."
+msgid "Menu"
+msgstr "‎القائمة"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:70
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:579
+msgid "Import from"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:71
+msgid "Imports views count (hits) from plugin"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:71
+msgid "to hits of"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:351
+msgid "Settings"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:362
+msgid ""
+"Use very fast (rapid) Hits Counter Script (ATTENTION! Required Wordpress "
+"version 3.4 or higher"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:368
+msgid "Don't count hits of admin users"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:447
+msgid "Hits"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:561
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1566
+msgid "Hits count"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:607
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:613
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:682
+msgid "We found"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:607
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:682
+msgid "no items"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:607
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:613
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:682
+msgid "to import from WP-PostViews plugin"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:608
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:683
+msgid "Have I hice day"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:613
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:675
+msgid "items"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:614
+msgid "To start import please click \"Start import\" button."
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:617
+msgid "Start import"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:675
+msgid "Imported"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:676
+msgid "inserted"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:676
+msgid "updated"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:676
+msgid "skipped"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:677
+msgid "Thank you for choosing our plugin."
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:747
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1410
+msgid "Popular Posts"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:749
+msgid "Displays popular posts/pages counted by"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1560
+msgid "Widget title"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1564
+msgid "Sorting algorithm (order by)"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1567
+msgid "Comments count"
+msgstr "‎عدد التعليقات"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1568
+msgid "N * Hits count + K * Comments count"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1576
+msgid "Display count"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1580
+msgid "Cache lifetime (in seconds)"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1584
+msgid "Posts types"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1586
+msgid "Posts & Pages"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1587
+msgid "Posts only"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1588
+msgid "Pages only"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1593
+msgid "Include category"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1603
+msgid "Exclude posts from this category"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1616
+msgid "Posts publish date range"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1618
+msgid "Day"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1619
+msgid "Week"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1620
+msgid "Month"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1621
+msgid "3 Months"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1622
+msgid "6 Months"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1623
+msgid "Year"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1624
+msgid "All time"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1628
+msgid "Exclude Posts/Pages IDs (sep. by comma)"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1632
+msgid "Custom CSS (remove if unneeded)"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1638
+msgid "HTML of one element/item"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1638
+msgid "inside tag"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1640
+msgid "You can use this placeholders"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1642
+msgid "Post ID"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1643
+msgid "Post title"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1644
+msgid "Post title, where"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1644
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1645
+msgid "is words count"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1644
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1645
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1650
+msgid "For example"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1645
+msgid "Post excerpt, where"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1645
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1650
+msgid "or"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1646
+msgid "Post author name"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1647
+msgid "Post author link"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1648
+msgid "Post link"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1649
+msgid "Post date"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1650
+msgid "Post thumbnail with size"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1651
+msgid "Links to post categories with"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1651
+msgid "as separator"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1652
+msgid "Post hits, counted by this plugin"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1653
+msgid "Post comments count"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1657
+msgid "Date format"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1657
+msgid "for more info see"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1657
+msgid "date() manual"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1661
+msgid "Categories separator (if more than one)"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1665
+msgid "Hits count format"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1741
+msgid "Any"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1742
+msgid "Current Category / Any"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1743
+#: ../inc/widgets/instaram_slider.php:350
+msgid "None"
+msgstr ""
+
+#: ../inc/customizer.php:13
+msgid "Layout"
+msgstr ""
+
+#: ../inc/customizer.php:18
+msgid "Header Style"
+msgstr ""
+
+#: ../inc/customizer.php:23
+msgid "Logo Style"
+msgstr ""
+
+#: ../inc/customizer.php:28
+msgid "General Style"
+msgstr ""
+
+#: ../inc/customizer.php:33
+msgid "Typography"
+msgstr ""
+
+#: ../inc/customizer.php:37
+msgid "Social Settings"
+msgstr ""
+
+#: ../inc/customizer.php:42
+msgid "Add Header/Footer Content"
+msgstr ""
+
+#: ../inc/customizer.php:47
+msgid "Facebook Comments"
+msgstr ""
+
+#: ../inc/customizer.php:52
+msgid "Background Image"
+msgstr ""
+
+#: ../inc/customizer.php:78
+msgid "Tagline Place"
+msgstr ""
+
+#: ../inc/customizer.php:83
+msgid "Beside Title"
+msgstr ""
+
+#: ../inc/customizer.php:84
+msgid "Below Title"
+msgstr ""
+
+#: ../inc/customizer.php:85
+msgid "Hide"
+msgstr ""
+
+#: ../inc/customizer.php:101
+msgid ""
+"Site Description - Few words about your blog to introducte it to search "
+"engines and social networks"
+msgstr ""
+
+#: ../inc/customizer.php:116
+msgid "Footer Credits Text"
+msgstr ""
+
+#: ../inc/customizer.php:131
+msgid "Site Default Image for Share"
+msgstr ""
+
+#: ../inc/customizer.php:146
+msgid "Facebook App ID"
+msgstr ""
+
+#: ../inc/customizer.php:161
+msgid "Twitter Consumer Key"
+msgstr ""
+
+#: ../inc/customizer.php:175
+msgid "Twitter Consumer Secret"
+msgstr ""
+
+#: ../inc/customizer.php:189
+msgid "Twitter Access Token"
+msgstr ""
+
+#: ../inc/customizer.php:203
+msgid "Twitter Access Token Secret"
+msgstr ""
+
+#: ../inc/customizer.php:284
+msgid "Use HTML5"
+msgstr ""
+
+#: ../inc/customizer.php:290 ../inc/customizer.php:1682
+#: ../inc/customizer.php:1726 ../inc/customizer.php:1810
+#: ../inc/customizer.php:1863 ../inc/customizer.php:1882
+#: ../inc/customizer.php:1901 ../inc/customizer.php:1942
+#: ../inc/customizer.php:1961 ../inc/customizer.php:1980
+#: ../inc/customizer.php:1999 ../inc/customizer.php:2018
+#: ../inc/customizer.php:2037 ../inc/customizer.php:2056
+#: ../inc/customizer.php:2075 ../inc/customizer.php:2094
+#: ../inc/customizer.php:2113 ../inc/customizer.php:2132
+#: ../inc/customizer.php:2151 ../inc/postoptions.php:120
+#: ../inc/postoptions.php:130 ../inc/postoptions.php:140
+#: ../inc/postoptions.php:194 ../inc/postoptions.php:204
+#: ../inc/postoptions.php:214 ../inc/postoptions.php:224
+msgid "Yes"
+msgstr ""
+
+#: ../inc/customizer.php:291 ../inc/customizer.php:1683
+#: ../inc/customizer.php:1727 ../inc/customizer.php:1811
+#: ../inc/customizer.php:1864 ../inc/customizer.php:1883
+#: ../inc/customizer.php:1902 ../inc/customizer.php:1943
+#: ../inc/customizer.php:1962 ../inc/customizer.php:1981
+#: ../inc/customizer.php:2000 ../inc/customizer.php:2019
+#: ../inc/customizer.php:2038 ../inc/customizer.php:2057
+#: ../inc/customizer.php:2076 ../inc/customizer.php:2095
+#: ../inc/customizer.php:2114 ../inc/customizer.php:2133
+#: ../inc/customizer.php:2152 ../inc/postoptions.php:121
+#: ../inc/postoptions.php:131 ../inc/postoptions.php:141
+#: ../inc/postoptions.php:195 ../inc/postoptions.php:205
+#: ../inc/postoptions.php:215 ../inc/postoptions.php:225
+msgid "No"
+msgstr ""
+
+#: ../inc/customizer.php:303
+msgid "Facebook Comments style"
+msgstr ""
+
+#: ../inc/customizer.php:309
+msgid "Light"
+msgstr ""
+
+#: ../inc/customizer.php:310
+msgid "Dark"
+msgstr ""
+
+#: ../inc/customizer.php:362
+msgid "Site Logo"
+msgstr ""
+
+#: ../inc/customizer.php:376
+msgid "Retina Logo ( Double size as default logo )"
+msgstr ""
+
+#: ../inc/customizer.php:522
+msgid "Header User Avatar"
+msgstr ""
+
+#: ../inc/customizer.php:537
+msgid "Header Background"
+msgstr ""
+
+#: ../inc/customizer.php:574
+msgid "Header Background Style"
+msgstr ""
+
+#: ../inc/customizer.php:580
+msgid "Single"
+msgstr ""
+
+#: ../inc/customizer.php:581
+msgid "Tiled"
+msgstr ""
+
+#: ../inc/customizer.php:582
+msgid "Cover"
+msgstr ""
+
+#: ../inc/customizer.php:655
+msgid "Header background Color"
+msgstr ""
+
+#: ../inc/customizer.php:700
+msgid "Header Text Color"
+msgstr ""
+
+#: ../inc/customizer.php:745
+msgid "Header Text Hover Color"
+msgstr ""
+
+#: ../inc/customizer.php:790
+msgid "Top Menu Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:836
+msgid "Top Menu Text Color"
+msgstr ""
+
+#: ../inc/customizer.php:882
+msgid "Top Menu Text Hover Color"
+msgstr ""
+
+#: ../inc/customizer.php:902
+msgid "Fav Icon"
+msgstr ""
+
+#: ../inc/customizer.php:946
+msgid "Site Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:993
+msgid "Content Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:1016
+msgid "Main Color"
+msgstr ""
+
+#: ../inc/customizer.php:1060
+msgid "Main Text Color"
+msgstr ""
+
+#: ../inc/customizer.php:1105
+msgid "Titles Hover Color"
+msgstr ""
+
+#: ../inc/customizer.php:1133
+msgid "Enable Custom CSS Code"
+msgstr ""
+
+#: ../inc/customizer.php:1149
+msgid "Add Custom CSS Code"
+msgstr ""
+
+#: ../inc/customizer.php:1173
+msgid "Enable Custom JS Code"
+msgstr ""
+
+#: ../inc/customizer.php:1188
+msgid "Add Custom JS Code"
+msgstr ""
+
+#: ../inc/customizer.php:1207
+msgid "Add Header Content Code"
+msgstr ""
+
+#: ../inc/customizer.php:1222
+msgid "Add Footer Content Code"
+msgstr ""
+
+#: ../inc/customizer.php:1238
+msgid "Site Main Font Type"
+msgstr ""
+
+#: ../inc/customizer.php:1316
+msgid "Menu Font Type"
+msgstr ""
+
+#: ../inc/customizer.php:1394
+msgid "Headlines Font Type"
+msgstr ""
+
+#: ../inc/customizer.php:1478
+msgid "Blog Content Font Type"
+msgstr ""
+
+#: ../inc/customizer.php:1655 ../inc/postoptions.php:348
+msgid "Sidebar Position"
+msgstr ""
+
+#: ../inc/customizer.php:1660 ../inc/postoptions.php:353
+msgid "Left Sidebar"
+msgstr "‎الجانب الأيمن"
+
+#: ../inc/customizer.php:1661 ../inc/postoptions.php:354
+msgid "Right Sidebar"
+msgstr "‎الجانب الأيسر"
+
+#: ../inc/customizer.php:1662 ../inc/postoptions.php:355
+msgid "No Sidebar"
+msgstr "‎بدون قائمة جانبية"
+
+#: ../inc/customizer.php:1677
+msgid "Sticky Menu?"
+msgstr ""
+
+#: ../inc/customizer.php:1698
+msgid "Default Blog Style"
+msgstr ""
+
+#: ../inc/customizer.php:1703 ../inc/fonts.php:18 ../inc/postoptions.php:294
+#: ../inc/widgets/about.php:91
+msgid "Default"
+msgstr ""
+
+#: ../inc/customizer.php:1704 ../inc/postoptions.php:295
+msgid "Banners First"
+msgstr ""
+
+#: ../inc/customizer.php:1705 ../inc/postoptions.php:296
+msgid "Masonry"
+msgstr ""
+
+#: ../inc/customizer.php:1706 ../inc/postoptions.php:297
+msgid "List"
+msgstr ""
+
+#: ../inc/customizer.php:1721
+msgid "Show Post Content"
+msgstr ""
+
+#: ../inc/customizer.php:1750
+msgid "Post Excerpt"
+msgstr ""
+
+#: ../inc/customizer.php:1756
+msgid "Enabled"
+msgstr ""
+
+#: ../inc/customizer.php:1757
+msgid "Disabled"
+msgstr ""
+
+#: ../inc/customizer.php:1805
+msgid "Show Continue Reading Button"
+msgstr ""
+
+#: ../inc/customizer.php:1824
+msgid "Continue Reading Button Text"
+msgstr ""
+
+#: ../inc/customizer.php:1839 ../inc/postoptions.php:277
+msgid "Pagination Style"
+msgstr ""
+
+#: ../inc/customizer.php:1844 ../inc/postoptions.php:283
+msgid "Older/Newer Links"
+msgstr ""
+
+#: ../inc/customizer.php:1845 ../inc/postoptions.php:284
+msgid "Numerical"
+msgstr ""
+
+#: ../inc/customizer.php:1858
+msgid "Crop Blog Banners in Blog List"
+msgstr ""
+
+#: ../inc/customizer.php:1877
+msgid "Crop Gallery Images in Blog List"
+msgstr ""
+
+#: ../inc/customizer.php:1896
+msgid "Crop Single Page Image"
+msgstr ""
+
+#: ../inc/customizer.php:1918
+msgid "Featured Image Position at Single Posts/Pages"
+msgstr ""
+
+#: ../inc/customizer.php:1923
+msgid "Above Title"
+msgstr ""
+
+#: ../inc/customizer.php:1924
+msgid "Under Title"
+msgstr ""
+
+#: ../inc/customizer.php:1937 ../inc/postoptions.php:135
+#: ../inc/postoptions.php:219
+msgid "Show Author Box"
+msgstr ""
+
+#: ../inc/customizer.php:1956
+msgid "Show Posts Navigation"
+msgstr ""
+
+#: ../inc/customizer.php:1975
+msgid "Show Related Posts"
+msgstr ""
+
+#: ../inc/customizer.php:1994 ../inc/postoptions.php:125
+#: ../inc/postoptions.php:209
+msgid "Show Share Icons"
+msgstr ""
+
+#: ../inc/customizer.php:2013
+msgid "Show views number"
+msgstr ""
+
+#: ../inc/customizer.php:2032 ../inc/postoptions.php:199
+msgid "Show Meta Info"
+msgstr ""
+
+#: ../inc/customizer.php:2051
+msgid "Show Categories in Post Meta"
+msgstr ""
+
+#: ../inc/customizer.php:2070
+msgid "Show Tags in Post Meta"
+msgstr ""
+
+#: ../inc/customizer.php:2089
+msgid "Show Date in Post Meta"
+msgstr ""
+
+#: ../inc/customizer.php:2108
+msgid "Show Comments Number in Post Meta"
+msgstr ""
+
+#: ../inc/customizer.php:2127
+msgid "Show Author in Post Meta"
+msgstr ""
+
+#: ../inc/customizer.php:2146
+msgid "Show Reading Progress Bar"
+msgstr ""
+
+#: ../inc/customizer.php:2178
+msgid "Background Repeat"
+msgstr ""
+
+#: ../inc/customizer.php:2182
+msgid "No Repeat"
+msgstr ""
+
+#: ../inc/customizer.php:2183
+msgid "Tile"
+msgstr ""
+
+#: ../inc/customizer.php:2184
+msgid "Tile Horizontally"
+msgstr ""
+
+#: ../inc/customizer.php:2185
+msgid "Tile Vertically"
+msgstr ""
+
+#: ../inc/customizer.php:2196
+msgid "Background Position"
+msgstr ""
+
+#: ../inc/customizer.php:2200
+msgid "Left"
+msgstr ""
+
+#: ../inc/customizer.php:2201
+msgid "Center"
+msgstr ""
+
+#: ../inc/customizer.php:2202
+msgid "Right"
+msgstr ""
+
+#: ../inc/customizer.php:2213
+msgid "Background Attachment"
+msgstr ""
+
+#: ../inc/customizer.php:2217
+msgid "Fixed"
+msgstr ""
+
+#: ../inc/customizer.php:2218
+msgid "Scroll"
+msgstr ""
+
+#: ../inc/fonts.php:19
+msgid "Standard Fonts"
+msgstr ""
+
+#: ../inc/fonts.php:21
+msgid "Google Fonts"
+msgstr ""
+
+#: ../inc/fonts.php:126
+msgid "All"
+msgstr ""
+
+#: ../inc/fonts.php:127
+msgid "Cyrillic"
+msgstr ""
+
+#: ../inc/fonts.php:128
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: ../inc/fonts.php:129
+msgid "Devanagari"
+msgstr ""
+
+#: ../inc/fonts.php:130
+msgid "Greek"
+msgstr ""
+
+#: ../inc/fonts.php:131
+msgid "Greek Extended"
+msgstr ""
+
+#: ../inc/fonts.php:132
+msgid "Khmer"
+msgstr ""
+
+#: ../inc/fonts.php:133
+msgid "Latin"
+msgstr ""
+
+#: ../inc/fonts.php:134
+msgid "Latin Extended"
+msgstr ""
+
+#: ../inc/fonts.php:135
+msgid "Vietnamese"
+msgstr ""
+
+#: ../inc/fonts.php:195
+msgctxt "font style"
+msgid "Serif"
+msgstr ""
+
+#: ../inc/fonts.php:199
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr ""
+
+#: ../inc/fonts.php:203
+msgctxt "font style"
+msgid "Monospaced"
+msgstr ""
+
+#: ../inc/formats/boxes/format-audio.php:2
+msgid "Audio URL (oEmbed) or Embed Code"
+msgstr ""
+
+#: ../inc/formats/boxes/format-gallery.php:5
+msgid "Gallery Images"
+msgstr ""
+
+#: ../inc/formats/boxes/format-gallery.php:10
+msgid "Shortcode"
+msgstr ""
+
+#: ../inc/formats/boxes/format-gallery.php:16
+msgid "Images uploaded to this post"
+msgstr ""
+
+#: ../inc/formats/boxes/format-gallery.php:69
+msgid "Upload Images"
+msgstr ""
+
+#: ../inc/formats/boxes/format-link.php:2
+msgid "URL"
+msgstr ""
+
+#: ../inc/formats/boxes/format-quote.php:3
+msgid "Quote Author Name"
+msgstr ""
+
+#: ../inc/formats/boxes/format-quote.php:7
+msgid "Quote Author URL"
+msgstr ""
+
+#: ../inc/formats/boxes/format-quote.php:11
+msgid "Quote Content"
+msgstr ""
+
+#: ../inc/formats/boxes/format-status.php:2
+msgid "Write a status or paste a status url from Facebook or Twitter"
+msgstr ""
+
+#: ../inc/formats/boxes/format-video.php:2
+msgid "Video URL (oEmbed) or Embed Code"
+msgstr ""
+
+#: ../inc/postoptions.php:10
+#, php-format
+msgid "%s - Post Options."
+msgstr ""
+
+#: ../inc/postoptions.php:12
+#, php-format
+msgid "%s - Page Options."
+msgstr ""
+
+#: ../inc/postoptions.php:14
+#, php-format
+msgid "%s - Blog Template Options."
+msgstr ""
+
+#: ../inc/postoptions.php:17
+#, php-format
+msgid "%s - General Page Options."
+msgstr ""
+
+#: ../inc/postoptions.php:115 ../inc/postoptions.php:189
+msgid "Show Title"
+msgstr ""
+
+#: ../inc/postoptions.php:119 ../inc/postoptions.php:129
+#: ../inc/postoptions.php:139 ../inc/postoptions.php:193
+#: ../inc/postoptions.php:203 ../inc/postoptions.php:213
+#: ../inc/postoptions.php:223 ../inc/postoptions.php:282
+#: ../inc/postoptions.php:293 ../inc/postoptions.php:352
+msgid "Same as site options"
+msgstr ""
+
+#: ../inc/postoptions.php:229
+msgid "Custom Description"
+msgstr ""
+
+#: ../inc/postoptions.php:288
+msgid "Blog Style"
+msgstr ""
+
+#: ../inc/template-tags.php:11
+msgctxt "Used before post format."
+msgid "Format"
+msgstr ""
+
+#: ../inc/template-tags.php:32
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr ""
+
+#: ../inc/template-tags.php:41
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr ""
+
+#: ../inc/template-tags.php:50
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr ""
+
+#: ../inc/widgets/about.php:65
+msgid "About Me"
+msgstr ""
+
+#: ../inc/widgets/about.php:69 ../inc/widgets/fbpage.php:50
+#: ../inc/widgets/gplus.php:56 ../inc/widgets/postlist.php:59
+#: ../inc/widgets/social.php:76 ../inc/widgets/tweets.php:61
+msgid "Title"
+msgstr ""
+
+#: ../inc/widgets/about.php:73
+msgid "Image"
+msgstr ""
+
+#: ../inc/widgets/about.php:76
+msgid "Upload Image"
+msgstr ""
+
+#: ../inc/widgets/about.php:79
+msgid "Image Shape"
+msgstr ""
+
+#: ../inc/widgets/about.php:82
+msgid "Rounded"
+msgstr ""
+
+#: ../inc/widgets/about.php:84
+msgid "Circle"
+msgstr ""
+
+#: ../inc/widgets/about.php:88
+msgid "Image Size"
+msgstr ""
+
+#: ../inc/widgets/about.php:93
+msgid "Large"
+msgstr ""
+
+#: ../inc/widgets/about.php:95
+msgid "Medium"
+msgstr ""
+
+#: ../inc/widgets/about.php:97
+msgid "Small"
+msgstr ""
+
+#: ../inc/widgets/about.php:101
+msgid "Content:"
+msgstr ""
+
+#: ../inc/widgets/fbpage.php:45
+msgid "Facebook Page"
+msgstr ""
+
+#: ../inc/widgets/fbpage.php:54
+msgid "Facebook Page URL"
+msgstr ""
+
+#: ../inc/widgets/gplus.php:51
+msgid "Google+"
+msgstr ""
+
+#: ../inc/widgets/gplus.php:60
+msgid "Google+ URL"
+msgstr ""
+
+#: ../inc/widgets/gplus.php:64
+msgid "Profile Type"
+msgstr ""
+
+#: ../inc/widgets/gplus.php:67
+msgid "Person"
+msgstr ""
+
+#: ../inc/widgets/gplus.php:71
+msgid "Community"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:36
+msgid "Writing - Instagram Slider"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:38
+msgid "A widget that displays a slider with instagram images "
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:70
+msgid "Instagram Slider - Shortcode Generator"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:72
+msgid ""
+"1. Drag Instagram Slider widget here. 2. Fill in the fields and hit save. 3. "
+"Copy the shortocde generated at the bottom of the widget form and use it on "
+"posts or pages."
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:172
+msgid "Instagram Slider"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:200
+msgid "Title:"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:204
+msgid "Search Instagram for:"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:205
+msgid "Username:"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:206
+msgid "Hashtag:"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:206
+msgid "without # sign"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:209
+msgid "Source:"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:210
+msgid "Instagram"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:211
+msgid "WP Media Library"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:256
+msgid "Save and Display Images from Media Library:"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:258
+msgid ""
+"It is recommended you check the field above because images displayed "
+"directly from Instagram server will affect your site loading time!"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:261
+msgid "Number of images to show:"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:266
+msgid "Check for new images every:"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:268
+msgid "hours"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:291
+msgid "Template"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:293
+msgid "Slider - Normal"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:294
+msgid "Slider - Overlay Text"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:295
+msgid "Thumbnails"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:296
+msgid "Thumbnails - Without Border"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:301
+msgid "Number of Columns:"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:303
+msgid "max is 10 ( only for thumbnails template )"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:316
+msgid "Image size"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:318
+msgid "Select Image Size"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:332
+msgid "Order by"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:334
+msgid "Date - Ascending"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:335
+msgid "Date - Descending"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:336
+msgid "Popularity - Ascending"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:337
+msgid "Popularity - Descending"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:338 ../inc/widgets/postlist.php:74
+msgid "Random"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:343
+msgid "Link to"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:345
+#: ../inc/widgets/instaram_slider.php:1118
+msgid "Instagram Image"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:346
+msgid "Instagram Profile"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:347
+msgid "Locally Saved Image"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:348
+msgid "Attachment Page"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:349
+msgid "Custom Link"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:355
+msgid "Custom link:"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:357
+msgid ""
+"* use this field only if the above option is set to <strong>Custom Link</"
+"strong>"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:373
+msgid "Advanced Image Options"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:375
+msgid "Image Link rel attribute"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:377
+msgid ""
+"Specifies the relationship between the current page and the linked website"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:380
+msgid "Image Link class"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:382
+msgid "Usefull if you are using jQuery lightbox plugins to open links"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:387
+msgid "Advanced Slider Options"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:389
+msgid "Slider Navigation Controls:"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:390
+msgid "Prev & Next"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:391
+msgid "Dotted"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:392
+msgid "No Navigation"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:395
+msgid "Slider Animation:"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:396
+msgid "Slide"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:397
+msgid "Fade"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:400
+msgid "Number of words in caption:"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:405
+msgid "Slide Speed:"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:407
+msgid "milliseconds"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:408
+msgid "1000 milliseconds = 1 second"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:412
+msgid "Slider Text Description:"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:414 ../inc/widgets/tweets.php:65
+msgid "Username"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:415
+msgid "Time"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:416
+msgid "Caption"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:418
+msgid ""
+"Hold ctrl and click the fields you want to show/hide on your slider. Leave "
+"all unselected to hide them all. Default all selected."
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:424
+msgid "Shortcode of this Widget:"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:426
+msgid ""
+"Use this shortcode in any page or post to display images with this widget "
+"configuration!"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:590
+msgid "No images found! <br> Try some other hashtag or username"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:631
+msgid "No images found! <br> Try some other hashtag or username!"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:870
+msgid "Nothing to search for"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:930
+msgid "No images found"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:1110
+msgid "Instagram Username"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:1128
+msgid "Posted on Instagram"
+msgstr ""
+
+#: ../inc/widgets/postlist.php:54
+msgid "Post List"
+msgstr ""
+
+#: ../inc/widgets/postlist.php:63 ../inc/widgets/tweets.php:69
+msgid "Number Of Posts"
+msgstr ""
+
+#: ../inc/widgets/postlist.php:67
+msgid "Post Order"
+msgstr ""
+
+#: ../inc/widgets/postlist.php:70
+msgid "Date"
+msgstr ""
+
+#: ../inc/widgets/postlist.php:72
+msgid "Comment Count"
+msgstr ""
+
+#: ../inc/widgets/postlist.php:78
+msgid "Tags"
+msgstr ""
+
+#: ../inc/widgets/social.php:68
+msgid "Social Profiles"
+msgstr ""
+
+#: ../inc/widgets/tweets.php:56
+msgid "Tweets"
+msgstr ""
+
+#: ../index.php:6 ../page-templates/blog.php:11
+msgid "Blog Posts"
+msgstr ""
+
+#: ../search.php:7
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../searchform.php:3 ../searchform.php:4
+msgid "Search for:"
+msgstr ""
+
+#: ../searchform.php:4
+msgid "Search ..."
+msgstr ""
+
+#: ../sidebar.php:2
+msgid "Site Sidebar"
+msgstr ""
+
+#: ../single.php:21
+msgid "Post Navigation"
+msgstr ""
+
+#: ../single.php:40
+msgid "Previous Post:"
+msgstr "‎الموضوع السابق"
+
+#: ../single.php:66
+msgid "Next Post:"
+msgstr "‎الموضوع التالي"
+
+#: ../single.php:83
+msgid "Related Posts"
+msgstr "‎مواضيع متعلقة"
+
+#~ msgid "%1$s comments"
+#~ msgid_plural "%1$s comments"
+#~ msgstr[0] "‎عدد التعليقات‫:‬ %1$s"
+#~ msgstr[1] "‎عدد التعليقات‫:‬ %1$s"
+
+#~ msgctxt "comments title"
+#~ msgid "One Comment on &ldquo;%s&rdquo;"
+#~ msgstr "‎تعليق واحد على &ldquo;%s&rdquo;"
+
+#~ msgid "%1$s comments on &ldquo;%2$s&rdquo;"
+#~ msgid_plural "%1$s comments on &ldquo;%2$s&rdquo;"
+#~ msgstr[0] "‎عدد التعليقات‫:‬ %1$s"
+#~ msgstr[1] "‎عدد التعليقات‫:‬ %1$s"
+
+#~ msgid "One comment"
+#~ msgid_plural "%1$s comments"
+#~ msgstr[0] "‎تعليق واحد"
+#~ msgstr[1] "%1$s التعليقات‫:‬"
+
+#~ msgid "Older Posts"
+#~ msgstr "‎المواضيع الأقدم"
+
+#~ msgid "Newer Posts"
+#~ msgstr "‎المواضيع الأجدد"
