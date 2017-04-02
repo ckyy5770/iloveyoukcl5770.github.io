@@ -7,6 +7,11 @@
 	font-size: 18px;
 	color:white;
 }
+
+.navbar-inverse .navbar-nav>li>a {
+	color:#d3d3d3;
+}
+
 nav a{
 	font-family: 'Open Sans', sans-serif;
 	font-size: 16px;
@@ -37,7 +42,7 @@ body {
 }
 
 .content .text{
-	background: rgba(0,0,0,.5)
+	background: rgba(0,0,0,.75)
 }
 .content a{
 	color: white;
@@ -67,7 +72,7 @@ body {
     -ms-border-radius: 50%;
     -o-border-radius: 50%;
     border-radius: 50%;
-    border: 10px #555 solid;
+    border: 10px rgba(0,0,0,.75) solid;
     margin: auto auto 5% auto;
 }
 .content img {
@@ -77,3 +82,9 @@ body {
     width: auto;
 }
 
+.dropdown-menu{
+	background-color: rgba(8,8,8,.75);
+}
+.dropdown-menu li a{
+	color: white;
+}
