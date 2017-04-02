@@ -1,0 +1,79 @@
+
+.navbar-inverse {
+	color: white;
+}
+
+.navbar-inverse .navbar-brand, .navbar-inverse a{
+	font-size: 18px;
+	color:white;
+}
+nav a{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	font-weight: bolder;
+}
+
+body {
+	background: url("../imgs/index_background.jpg");
+    background-size: cover;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+}
+
+/*hr {
+    width: 400px;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+}*/
+
+
+
+.content{
+	padding-top: 10%;
+	padding-bottom: auto;
+	font-size: 2.2em;
+	color: white;
+	
+}
+
+.content .text{
+	background: rgba(0,0,0,.5)
+}
+.content a{
+	color: white;
+}
+.content strong{
+	font-size: 1.25em;
+	/*color:black;*/
+}
+
+.content p{
+	padding-left: 1%;
+	padding-right: 1%;
+}
+.content .intro{
+	padding-top: 2%
+}
+.content .links{
+	text-align: right;
+}
+
+.content .image-cropper {
+    width: 400px;
+    height: 400px;
+    overflow: hidden;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+    border: 10px #555 solid;
+    margin: auto auto 5% auto;
+}
+.content img {
+    display: inline;
+    margin: auto;
+    height: 100%;
+    width: auto;
+}
+
