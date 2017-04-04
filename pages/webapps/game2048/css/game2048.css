@@ -1,0 +1,118 @@
+
+.navbar-inverse {
+	color: white;
+}
+
+.navbar-inverse .navbar-brand, .navbar-inverse a{
+	font-size: 18px;
+	color:white;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color:#d3d3d3;
+}
+
+nav a{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	font-weight: bolder;
+}
+
+body {
+	background: url("../../../../imgs/index_background.jpg");
+    background-size: cover;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+}
+
+.dropdown-menu{
+	background-color: rgba(8,8,8,.75);
+}
+
+.dropdown-menu li a{
+	color: white;
+}
+
+
+.content {
+	padding-top: 150px;
+	padding-bottom: auto;
+
+	font-size: 2.2em;
+	color: white;
+	
+}
+
+.background{
+	height: 600px;
+	width: 600px;
+	margin: auto;
+	/*background: rgba(255,255,255,.15);*/
+	table-layout: fixed;
+}
+
+td{
+	height: 150px;
+	width: 150px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 110px;
+	font-weight: bolder;
+	text-align: center;
+}
+
+/*define icon classes*/
+.num_0 {
+	background-color: rgba(0,0,0,.15);
+}
+
+.num_2 {
+	background-color: rgba(0,0,0,.50);
+}
+
+.num_4 {
+	background-color: rgba(0,0,0,.55);
+}
+
+.num_8 {
+	background-color: rgba(0,0,0,.60);
+}
+
+.num_16 {
+	font-size: 85px;
+	background-color: rgba(0,0,0,.65);
+}
+
+.num_32 {
+	font-size: 85px;
+	background-color: rgba(0,0,0,.70);
+}
+
+.num_64 {
+	font-size: 85px;
+	background-color: rgba(0,0,0,.75);
+}
+
+.num_128 {
+	font-size: 55px;
+	background-color: rgba(0,0,0,.80);
+}
+
+.num_256 {
+	font-size: 55px;
+	background-color: rgba(0,0,0,.85);
+}
+
+.num_512 {
+	font-size: 55px;
+	background-color: rgba(0,0,0,.90);
+}
+
+.num_1024 {
+	font-size: 35px;
+	background-color: rgba(0,0,0,.95);
+}
+
+.num_2048 {
+	font-size: 35px;
+	background-color: rgba(0,0,0,1);
+}

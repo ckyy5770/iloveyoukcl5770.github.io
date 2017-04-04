@@ -7,7 +7,7 @@
 	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
-	<link rel="stylesheet" type="text/css" href="./css/index.css">
+	<link rel="stylesheet" type="text/css" href="./css/game2048.css">
 </head>
 <body>
 	<!-- Navigation Bar -->
@@ -36,7 +36,7 @@
 	
 	        <!-- Dropdown Button -->
 	        <li class="dropdown">
-	          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Fun Apps<span class="caret"></span></a>
+	          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Fun Apps <span class="caret"></span></a>
 	          <!-- Some entries in the menu -->
 	          <ul class="dropdown-menu">
 	            <li><a href="/pages/webapps/game2048/game2048.html">Game 2048</a></li>
@@ -73,25 +73,36 @@
 	</nav><!-- Navigation Bar -->
 
 <!-- Brief introduction -->
- <div class="container">
+ <div class="container content">
  	<div class="row">
  		<div class="col-lg-12">
- 			<div class="content">
-	 			<div class="image-cropper">
-	    		<img src="./imgs/photo_chuilian.JPG" class="rounded" />
-				</div>
- 				<div class="text">
-	 				<p class="intro"> 
-	 						<strong>Hello</strong>, Welcome to my personal website! My name is <strong>Chuilian Kong</strong>, and I'm a first year master's stundent at <strong>Vanderbilt University</strong> studying <strong>Computer Science</strong>. I love <strong>coding</strong>, <strong>swimming</strong> and playing with my <strong>cat</strong>.
-	 				</p>
-	 				<p class="links">
-			 			<a href="https://www.facebook.com/chuilian.kong.5"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-			 			<a href="https://www.linkedin.com/in/chuiliankong/"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-			 			<a href="https://github.com/iloveyoukcl5770"><i class="fa fa-github" aria-hidden="true"></i></a>
-			 			<a href="https://www.instagram.com/iloveyoukcl5770/?hl=en"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-			 			<a href="https://plus.google.com/u/0/105965455788882240239"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
-		 			</p>
-	 			</div>
+ 			<div class="background">
+	 			<table>
+	 				<tr>
+	 					<td id="elem_0"></td>
+	 					<td id="elem_1"></td>
+	 					<td id="elem_2"></td>
+	 					<td id="elem_3"></td>
+	 				</tr>
+	 				<tr>
+	 					<td id="elem_4"></td>
+	 					<td id="elem_5"></td>
+	 					<td id="elem_6"></td>
+	 					<td id="elem_7"></td>
+	 				</tr>	 			
+	 				<tr>
+	 					<td id="elem_8"></td>
+	 					<td id="elem_9"></td>
+	 					<td id="elem_10"></td>
+	 					<td id="elem_11"></td>
+	 				</tr>	 				
+	 				<tr>
+	 					<td id="elem_12"></td>
+	 					<td id="elem_13"></td>
+	 					<td id="elem_14"></td>
+	 					<td id="elem_15"></td>
+	 				</tr>
+	 			</table>
  			</div>
  		</div>
  	</div>
@@ -105,5 +116,8 @@
 <script 
 	type="text/javascript" 
 	src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script 
+	type="text/javascript"
+	src="./js/main_logic_2048.js"></script>
 </body>
 </html>
