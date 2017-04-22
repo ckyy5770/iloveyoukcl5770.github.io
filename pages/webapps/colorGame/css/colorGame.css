@@ -1,0 +1,74 @@
+h1{
+	text-align: center;
+	color: white;
+	margin: 0;
+	font-weight: bold;
+	padding: 20px 0;
+}
+
+div{
+	text-align: center;
+	color: white;
+}
+
+body {
+	background-color: #232323;
+	margin: 0;
+	font-family: 'Kalam', cursive;
+}
+
+#squareContainer{
+	margin: 20px auto;
+	max-width: 600px;
+}
+
+.square{
+	width:30%;
+	padding-bottom: 30%;
+	margin: 1.66%;
+	float:left;
+	background: white;
+	border-radius: 15%;
+	transition: background .6s;
+}
+
+.selected{
+	background: #232323;
+	color: white;
+}
+
+#pickedColorDisplay{
+	font-size: 200%;
+	padding: 20px 0;
+}
+
+#stripe{
+	background: white;
+	height: 30px;
+	text-align: center;
+	color: black;
+	font-weight: bold;
+	font-size: inherit;
+}
+
+button{
+	border: none;
+	background: none;
+	text-transform: uppercase;
+	height: 100%;
+	font-family: 'Kalam', cursive;
+	font-weight: bold;
+	font-size: inherit;
+	transition: all .3s;
+	outline: none;
+}
+
+#statusDisplay{
+	display: inline-block;
+	width: 20%;
+}
+
+button:hover{
+	background: #232323;
+	color: white;
+}
