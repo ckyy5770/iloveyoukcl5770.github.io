@@ -31,7 +31,7 @@ class Board{
 	// set a new element to either 2 or 4 refering by index.
 	giveBirth(index){
 		// prob to set 2 is larger
-		if(this.getRandom(1,100)<=66){
+		if(this.getRandom(1,100)<=50){
 			this.set(index, 2);
 		}else{
 			this.set(index, 4);
