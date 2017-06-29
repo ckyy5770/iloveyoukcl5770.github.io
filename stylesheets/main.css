@@ -1,14 +1,13 @@
-@import url(http://fonts.googleapis.com/css?family=Ubuntu:400,500);
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Source+Code+Pro:300,400,500');
+
+html, body{
+	height: 100%;
+	width: 100%;
+}
 
 *{
 	padding:0;
 	margin:0;
-}
-
-body{
-	font-family: "Ubuntu", sans-serif;
-	font-size: 100%;
-	background:#f8f8f8;
 }
 
 a{
@@ -41,6 +40,64 @@ p{
 	margin:20px 0;
 	font-size: 0.75em;
 	text-align: center;
+}
+
+.container{
+	height: 100%;
+	width: 100%;
+}
+
+html body{
+	background-color: #272822;
+}
+
+#heading{
+	height: 15%;
+}
+
+#text-row{
+	height: 100%;
+}
+
+#text-pad{
+	height: 75%;
+	padding: 10px;
+	background-color: #272822;
+	font-family: 'Source Code Pro', monospace;
+	font-size: 1.5em;
+	font-weight: 300;
+	color: #F8F8F2;
+}
+
+/* code-like stylings */
+.plain-text{
+	color: #F8F8F2;
+}
+
+.keyword, .operator{
+	color: #F92672;
+}
+
+.classname{
+	color: #A6E22E;
+}
+
+.declaration-type, .built-in-class{
+	color: #66D9EF;
+	font-style: italic;
+}
+
+.input-para{
+	color: #FD971F;
+	font-style: italic;
+}
+
+.string{
+	color: #FFE792;
+}
+
+.constant{
+	color: #AE81FF;
 }
 
 /* code for animated blinking cursor */
